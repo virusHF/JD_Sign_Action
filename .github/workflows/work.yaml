@@ -5,7 +5,7 @@ on:
   release:
     types: published
   schedule:
-    - cron: 50 5 * * *
+    - cron: 0 21 * * *
   watch:
     types: started
     
